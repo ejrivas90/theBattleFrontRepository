@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Soldiers\SoldierManager.cs">
+    <Files>
+      <File FileName="Assets\scripts\General\TurnManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\General\EndTurnButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\General\Attack.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\General\RecruitButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\General\WaitButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Soldiers\SoldierManager.cs" Line="154" Column="1" />
+      <File FileName="Assets\scripts\General\MoveAction.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\ejriv\OneDrive\The Battle Front\Assets\scripts\Soldiers\SoldierManager.cs" line="123" column="1" />
+      <Breakpoint file="C:\Users\ejriv\OneDrive\The Battle Front\Assets\scripts\Soldiers\SoldierManager.cs" line="105" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

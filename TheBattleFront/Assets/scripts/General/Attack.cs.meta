@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 03cf5f9dd648d5c46a54c1a23205fe8e
+timeCreated: 1495333067
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerBaseHighlight: {fileID: 2100000, guid: 1fc2530e0bdb93d4980652715fc3d936,
+      type: 2}
+  - enemyBaseHighlight: {fileID: 2100000, guid: 0788c6c0e4cf5f44aad447af92c74b1a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
